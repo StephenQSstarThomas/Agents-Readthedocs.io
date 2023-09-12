@@ -528,6 +528,3 @@ Utilize the 'function call' method, and store particular args of the particular 
                    outputdict["prompt"] = function_response
 
            return outputdict
-
-
-(The above material is from prompt master jlwu & prompt noob stephen_qs)
