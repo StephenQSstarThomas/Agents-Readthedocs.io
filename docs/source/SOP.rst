@@ -10,10 +10,9 @@ Demonstrations & Remarks
 
 Our SOP System provides several distinct functions, including **init_series**, **transit**, **route**, **load_date**, and **send_memory**, which are shown as follows:
 
-Init_series
-~~~~~~~~~~~
+SOP_init:
+~~~~~~~~~
 
-**SOP_init:**
 
 .. code:: python
 
