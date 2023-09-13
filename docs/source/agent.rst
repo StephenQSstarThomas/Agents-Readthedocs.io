@@ -238,7 +238,7 @@ Observe
     # Remark:
     # The Observe method is the core method of an agent. It updates and reads the current environment, including the chatting history and the basic information, and returns particular actions for the agent.
 
-update_memory
+Update_memory
 ~~~~~~~~~~~~~
 
 .. code:: python
